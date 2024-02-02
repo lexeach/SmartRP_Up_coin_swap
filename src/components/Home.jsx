@@ -18,7 +18,7 @@ function Home() {
 
         var dataText = [
              "Swap UPC-RP token.",
-            "UP COIN- Fully decentralised.",
+            "UPSRP- Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transfer to your wallet",
             "Select NRK chain mainnet in your wallet"
@@ -89,8 +89,8 @@ function Home() {
                 <div class="container">
                     <div class="banner_text_wthree
                         <div class="d-flex>
-                            <h1>Welcome to UP Coin Swap </h1>
-                            <h2>swap UP Coin</h2>                                                  
+                            <h1>Welcome to UPSRP Swap </h1>
+                            <h2>swap UPSRP</h2>                                                  
                         </div>
                         <div id="text" class="banner_text_w3ls my-md-5 my-3"></div>
                         <ul class="list-inline bnr_list_w3">
@@ -108,7 +108,7 @@ function Home() {
     
     <footer>
         <div class="cpy-right text-center py-4">
-            <p class="text-white">This is a decentralized swap application Designed by UP Coin | All Right Reserved, UP Coin or its Affiliates| 
+            <p class="text-white">This is a decentralized swap application Designed by UPSRP | All Right Reserved, UPSRP or its Affiliates| 
                 <a href="https://main.d18a6yaec5rs9n.amplifyapp.com/"> .</a>
             </p>
         </div>
